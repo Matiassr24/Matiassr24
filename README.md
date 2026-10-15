@@ -18,7 +18,7 @@ Me interesa construir interfaces **claras, accesibles y rápidas** para sistemas
 | Proyecto | Qué es | Stack |
 |---|---|---|
 | [**Vitta**](https://github.com/Matiassr24/vitta-pos) | Punto de venta, stock y caja para comercios minoristas. En uso diario en un negocio real. | Electron · React · TypeScript · SQLite |
-| [**Rediseño "Mi Próximo Paso"**](https://incredible-jalebi-bcb5a4.netlify.app/) | Análisis de UX y accesibilidad, y prototipo de rediseño de un portal del Gobierno de San Luis (propuesta independiente). | HTML · CSS · JavaScript |
+| [**Rediseño "Mi Próximo Paso"**]([https://incredible-jalebi-bcb5a4.netlify.app/](https://rediseno-miproximopaso-mreina.netlify.app/)) | Análisis de UX y accesibilidad, y prototipo de rediseño de un portal del Gobierno de San Luis (propuesta independiente). | HTML · CSS · JavaScript |
 
 **Tecnologías**
 
